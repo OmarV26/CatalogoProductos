@@ -1,0 +1,27 @@
+/* styles.css */
+body {
+    background-color: #b87878;
+    color: rgb(0, 0, 0);
+  }
+  
+  .container {
+    background-color: #9c5f5f;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .form-control {
+    background-color: #444;
+    color: white;
+    border: 1px solid #555;
+  }
+  
+  .btn-primary {
+    background-color: #0e0d0d;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #666;
+  }
+
